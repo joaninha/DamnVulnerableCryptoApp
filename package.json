@@ -44,6 +44,6 @@
   },
   "homepage": "https://github.com/luisfontes19/damn_vulnerable_crypto_app#readme",
   "devDependencies": {
-    "markdownlint-cli": "^0.27.1"
+    "markdownlint-cli": "^0.33.0"
   }
 }
